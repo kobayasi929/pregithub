@@ -421,7 +421,7 @@ ul {
       }
 }
 
-@media screen and (max-width:376px){
+@media screen and (max-width:400px){
     .search_container input[type="text"]{
         border: 1px solid #999;
         padding: 1px 5px;

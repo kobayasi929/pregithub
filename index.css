@@ -205,7 +205,7 @@ ul {
 /*サムネイル 投稿画像*/
 .list_video .thumb {
     width: 100%;
-    background-image: url(/images/銀魂サムネ.jpg);
+    background-image: url(銀魂サムネ.jpg);
     background-size: cover;
     border-radius: 1%;
     
@@ -218,7 +218,7 @@ ul {
 }
 .list_video .thumb2 {
     width: 100%;
-    background-image: url(/images/ナルトサムネ.jpg);
+    background-image: url(ナルトサムネ.jpg);
     background-size: cover;
     
 }
@@ -240,7 +240,7 @@ ul {
 .list_video .img {
     width: 100%;
     border-radius: 50%;
-    background-image: url(/images/沖田.jpeg);
+    background-image: url(沖田.jpeg);
     background-size:cover;
 }
 .list_video .img:before{
@@ -252,7 +252,7 @@ ul {
 .list_video .img2 {
     width: 100%;
     border-radius: 50%;
-    background-image: url(/images/ナルト.jpg);
+    background-image: url(ナルト.jpg);
     background-size:cover;
 }
 .list_video .img2:before{
